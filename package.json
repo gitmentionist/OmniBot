@@ -1,0 +1,20 @@
+{
+  "name": "omnibot",
+  "version": "1.0.0",
+  "description": "A bot that does all things other bots can do. Stop inviting other bots for other activities!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "omni",
+    "omnibot",
+    "omnidiscord",
+    "botomni"
+  ],
+  "author": "Evan \"Mentionist\" Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  }
+}
